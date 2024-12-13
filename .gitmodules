@@ -1,0 +1,6 @@
+[submodule "clbWeb"]
+	path = clbWeb
+	url = https://github.com/Nope0801/clbWeb.git
+[submodule "Projects"]
+	path = Projects
+	url = https://github.com/Nope0801/Projects.git
